@@ -69,6 +69,15 @@ To modify this behavior, you can edit the corresponding sections of `utils_deman
 - Machines with laptop GPUs are skipped by default.
 - Jupyter and SSH keys are set to `abc123abc` (please change these before running the program).
 
+### Support the Project
+
+I created and shared this project purely for fun but your support is greatly appreciated. If you'd like to contribute, here are some ways you can help:
+
+- **BTC**: `bc1q9x6zrts3prgankxs3sk5qpt942c3039vay9m0l`
+- **ETH**: `0xeAF0bF2dd1b72AB756ce5F528C7DE0Cae269f6C6`
+- **LTC**: `ltc1qu3uhq3d2wkqrg46de0cgzyjn6uah5j9rywyghh`
+- **DOGE**: `DDnJnpBNcha6Jo5RhvxweUNiavoGJ5cNj5`
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
